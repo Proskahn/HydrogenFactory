@@ -1,6 +1,5 @@
 ### README.md
 
-```markdown
 # HydrogenFactory
 
 API for controlling a hydrogen production factory, enabling configuration of electrolyzers and storage, and optimizing production schedules using linear programming.
